@@ -1,0 +1,17 @@
+body{ 
+  background-image: url("lab 4 images/universe.jpg");
+  a:link color: purple;
+  margin-left: 10px; border: 10px solid black;
+  text-align: center;
+  font-family: 'Crushed'; font-size: 20px;
+  padding: 2%; border: 0px Solid orange;
+  color: white;
+} 
+p 
+{
+  color: White; 
+} 
+h3
+{
+  color: White; 
+}
