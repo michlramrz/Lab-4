@@ -4,7 +4,7 @@ body{
   background-size: cover;
   width: 1000px;
   padding: 200%; border: 0px Solid orange;
-  a:link color: red;
+  a:link; color: red;
   margin-left: 0px; border: 0px solid black;
   text-align: center;
   font-family: 'Crushed'; font-size: 20px; color: white;
