@@ -1,23 +1,31 @@
-body{ 
-  background-color: 	#000000;
-  background-image: url("lab 4 images/Universe.jpg");
+body{
+  background-color: gray;
   background-position: center;
-  background-size: cover;
-  color: 	#000000;
-  width: 700px;
-  padding: 20px;
-  margin-left: 0px; border: 0px solid black;
+  font-family: 'times new roman';
+  font size: 20px;
   text-align: center;
-  font-family: 'Crushed'; font-size: 20px; color: white;
-} 
-p
-{
-  font-size:20px;
+  width: auto;
+  padding 2px;
+  margin: 0 auto;
+  background-size; cover;
+}
+
+h1{
+  color:red;
+  font-family: 
+  font-size: 15px
   font-style: normal;
-  font-family: 'Crushed'; font-size: 20px; color: White; 
-} 
-.table{
-  font-family: 'Crushed'; font-size: 20px;
-  color: White;
-  text-align: center; 
+}
+
+nav{
+  background color: black;
+}
+a: hover {
+  background-color: purple;
+}
+  
+li a {
+    display: block;
+    width: 60px;
+    background-color: #dddddd;
 }
