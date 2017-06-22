@@ -1,11 +1,11 @@
 body{ 
-  background-image: url("lab 4 images/universe.jpg");
+  background-image: url("lab 4 images/Universe.jpg");
   background-position: center;
   background-size: cover;
   width: 1000px
   padding: 2%; border: 0px Solid orange;
   a:link color: red;
-  margin-left: 10px; border: 10px solid black;
+  margin-left: 0px; border: 0px solid black;
   text-align: center;
   font-family: 'Crushed'; font-size: 20px; color: white;
 } 
